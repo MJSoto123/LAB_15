@@ -1,0 +1,102 @@
+[
+    {
+        "name_course": "Trabajo Interdiciplinar",
+        "students": [
+            {
+                "name": "Jose Olaya",
+                "note": 16
+            },
+            {
+                "name": "Miguel Grau",
+                "note": 19
+            },
+            {
+                "name": "Tupac Amaru II",
+                "note": 15
+            },
+            {
+                "name": "Andres Avelino Caceres",
+                "note": 13
+            },
+            {
+                "name": "Francisco Pizarro",
+                "note": 14
+            }
+        ]
+    },
+    {
+        "name_course": "Desarrollo Basado en Plataformas",
+        "students": [
+            {
+                "name": "Jose Olaya",
+                "note": 14
+            },
+            {
+                "name": "Miguel Grau",
+                "note": 19
+            },
+            {
+                "name": "Tupac Amaru II",
+                "note": 11
+            },
+            {
+                "name": "Andres Avelino Caceres",
+                "note": 13
+            },
+            {
+                "name": "Francisco Pizarro",
+                "note": 17
+            }
+        ]
+    },
+    {
+        "name_course": "Base de Datos I",
+        "students": [
+            {
+                "name": "Jose Olaya",
+                "note": 19
+            },
+            {
+                "name": "Miguel Grau",
+                "note": 19
+            },
+            {
+                "name": "Tupac Amaru II",
+                "note": 15
+            },
+            {
+                "name": "Andres Avelino Caceres",
+                "note": 12
+            },
+            {
+                "name": "Francisco Pizarro",
+                "note": 15
+            }
+        ]
+    },
+    {
+        "name_course": "Algoritmos y Estructura de Datos",
+        "students": [
+            {
+                "name": "Jose Olaya",
+                "note": 0
+            },
+            {
+                "name": "Miguel Grau",
+                "note": 6
+            },
+            {
+                "name": "Tupac Amaru II",
+                "note": 0
+            },
+            {
+                "name": "Andres Avelino Caceres",
+                "note": 13
+            },
+            {
+                "name": "Francisco Pizarro",
+                "note": 8
+            }
+        ]
+    }
+]
